@@ -1,0 +1,23 @@
+#new{
+    background-color: palegreen;
+    padding: 10px;
+
+}
+p{
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+.samp{
+    background-color: blue;
+   
+    border: 10px solid pink;
+}
+.hello{
+    background-color: red;
+    padding: 10px;
+}
+.purpule{
+    background-color: purple;
+    border: 10px solid black;
+}
